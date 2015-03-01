@@ -1,0 +1,30 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/mgoncharuk/.emacs.d/" . "plugins/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mgoncharuk/.emacs.d/plugins/"
+ "/home/mgoncharuk/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "sr-speedbar.el"
+ ".emacs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mgoncharuk/.emacs.d/plugins/" (21747 2109 933525 360000) "auto-complete/" "../" "sr-speedbar.el" "yasnippet/" "linum+.el" "./")
+
+ ("/home/mgoncharuk/.emacs.d/" (21747 23324 555048 410000) "url/" "elpa/" "../" "./" "auto-save-list/" "plugins/" "ac-comphist.dat")
+
+ ("/home/mgoncharuk/" (21747 23324 514048 222000) ".bashrc" ".macromedia/" "Desktop/" "Games/" ".cache/" ".Skype/" "Develop/" "Main.java" ".config/" ".recently-used" "skype_downloads/" ".emacs" ".dropbox/" ".java/" "Firefox_wallpaper.png" ".pki/" "rpmbuild/" ".bash_history" "Video/" "Pictures/" "Documents/" ".local/" "../" ".gnome2/" "Downloads/" "Dropbox (Old)/" ".directory" "tmp/" ".weather.cfg" "Main.class" ".ssh/" ".esd_auth" "Command and Conquer Generals Zero Hour Data/" "./" ".ICEauthority" "Databases.db" ".kde/" ".bash_logout" ".dbus/" ".npm/" ".subversion/" "Templates/" ".gnome2_private/" ".gphoto/" ".thumbnails/" ".adobe/" ".gstreamer-0.10/" ".wine/" ".bash_profile" "Share/" ".emacs~" "Music/" ".qt/" ".IdeaIC14/" ".FBReader/" ".gnupg/" ".gnome/" "Literature/" ".viminfo" "Dropbox/" ".inputrc" ".org-timestamps/" ".gtkrc-2.0-kde4" ".smex-items" ".mozilla/" ".dropbox-dist/" ".emacs.d/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
